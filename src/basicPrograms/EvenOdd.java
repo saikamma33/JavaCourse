@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class EvenOdd {
 
     public static void main (String[] args){
-System.out.println(" sample ");
+System.out.println(" example ");
         Scanner sc = new Scanner(System.in);
 
         System.out.println(" Enter the number ");
