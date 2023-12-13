@@ -8,7 +8,7 @@ public class reversenum2 {
 
         Scanner sc = new Scanner(System.in);
 
-        System.out .println(" enter the number ");
+        System.out .println(" enter an integer number ");
 
         int a = sc.nextInt();
         int reminder;
