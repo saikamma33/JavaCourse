@@ -24,7 +24,10 @@ public class StringExam {
         System.out.println(s1.repeat(5));
         System.out.println(s1.concat(s2));
 
+        System.out.println(" length of the word is  " + s1.length());
 
+        System.out.println(s1.substring(0,4));
+        System.out.println(s1.charAt(3));
 
     }
 }
