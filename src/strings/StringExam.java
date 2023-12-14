@@ -29,5 +29,7 @@ public class StringExam {
         System.out.println(s1.substring(0,4));
         System.out.println(s1.charAt(3));
 
+        System.out.println(s1.intern());
+
     }
 }
